@@ -1,0 +1,7 @@
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\bin\Debug\E43_E44_LinearYBinariSearch.exe.config
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\bin\Debug\E43_E44_LinearYBinariSearch.exe
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\bin\Debug\E43_E44_LinearYBinariSearch.pdb
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\obj\Debug\E43_E44_LinearYBinariSearch.csprojAssemblyReference.cache
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\obj\Debug\E43_E44_LinearYBinariSearch.csproj.CoreCompileInputs.cache
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\obj\Debug\E43_E44_LinearYBinariSearch.exe
+C:\Users\Fam RN\source\Ejercicios C\E43_E44_LinearYBinariSearch\E43_E44_LinearYBinariSearch\obj\Debug\E43_E44_LinearYBinariSearch.pdb
